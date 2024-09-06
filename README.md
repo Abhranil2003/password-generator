@@ -2,7 +2,11 @@
 
 ------------------------
 
-This python program can be used to generate passwords for any account for account creation.
+This is a simple password generator program is  built using python.
 
-# This program can generate passwords consisting of uppercase letters, lowercase letters, special characters and numbers.
+## Features
+
+- Generates strong passwords with customizable length and character sets.
+- Allows the user to specify whether to include uppercase letters, lowercase letters, digits, and special characters.
+
 ------------------------
