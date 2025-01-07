@@ -32,7 +32,8 @@ def main():
     use_special_chars = input("Include special characters? (yes/no): ").lower() == "yes"
 
     password = password_generator(length, use_uppercase, use_numbers, use_special_chars)
-    print("Generated Password : ", password)
+    print("A strong password has been generated. Please copy it from the program output.")
+    print(strong_password)
 
 if __name__ == "__main__":
     main()
