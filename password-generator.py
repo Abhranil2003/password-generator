@@ -33,7 +33,7 @@ def main():
 
     password = password_generator(length, use_uppercase, use_numbers, use_special_chars)
     print("A strong password has been generated. Please copy it from the program output.")
-    print(strong_password)
+    print(password)
 
 if __name__ == "__main__":
     main()
